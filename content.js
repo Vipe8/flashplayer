@@ -4,8 +4,8 @@ window.SITE_CONTENT = {
   logo: "assets/vipe8-logo.png",
   links: { youtube: "https://www.youtube.com/@vipe-8/", kick: "https://kick.com/vipe808", discord: "https://discord.gg/WYdEuQhYtJ", comments: "" },
   videos: [
-    { url: "https://youtu.be/PBQz-xd_jaY?si=Y21G5HjtxbJkYcib", title: "Bir Çağın Kapanışı (Flash Player)", description: "Flash Player tam olarak nedir, başına ne geldi ve oyunlara ne olacak? sorularını cevaplıyorum.", thumbnail: "" },
-    { url: "https://youtu.be/U-ON4v7QcC4?si=o_JmBxNi7IM4EEbJ", title: "En İyi 25 Flash Player Oyunu", description: "Bilgisayarın başından kaldırtmayan, en sevdiğim 25 Flash Player oyunu ve sürpriz +1 olan listem.", thumbnail: "" },
+    { url: "https://youtu.be/PBQz-xd_jaY?si=Y21G5HjtxbJkYcib", title: "Bir Çağın Kapanışı (Flash Player)", description: "Flash Player tam olarak nedir, başına ne geldi ve oyunlara ne olacak? sorularını cevaplıyorum.", thumbnail: "https://i.ytimg.com/vi/PBQz-xd_jaY/hqdefault.jpg" },
+    { url: "https://youtu.be/U-ON4v7QcC4?si=o_JmBxNi7IM4EEbJ", title: "En İyi 25 Flash Player Oyunu", description: "Bilgisayarın başından kaldırtmayan, en sevdiğim 25 Flash Player oyunu ve sürpriz +1 olan listem.", thumbnail: "https://i.ytimg.com/vi/U-ON4v7QcC4/hqdefault.jpg" },
     { url: "", title: "Efsanevi Flash Player Listesi", description: "Hem benim eklemelerim hem de sizden gelenlerin eklendiği efsanevi liste ve geleceğini anlatıyorum.", thumbnail: "" },
     { url: "", title: "ÇOK YAKINDA", description: "Çok yakında yeni bir video daha sizlerle.", thumbnail: "", comingSoon: true }
   ],
