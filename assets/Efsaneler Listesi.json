@@ -1,0 +1,659 @@
+{
+  "id": "9b408f64-a50e-4df0-8b2a-68bbebcc4bf8",
+  "games": [
+    {
+      "notes": "",
+      "gameId": "d34c952e-3ae0-40a6-9bb3-cea413f91900"
+    },
+    {
+      "notes": "",
+      "gameId": "6b50cb43-ad66-4ec8-9e46-3bb06821f2ab"
+    },
+    {
+      "notes": "",
+      "gameId": "fdee4800-b5c9-49e0-b19e-22f2b0ccab68"
+    },
+    {
+      "notes": "",
+      "gameId": "15ac0ed0-dbd4-8a95-5eec-4cf3e04fc771"
+    },
+    {
+      "notes": "",
+      "gameId": "32ab43c7-127c-a4fa-dea3-531ed39d05da"
+    },
+    {
+      "notes": "",
+      "gameId": "26ac7a58-02f8-4b5e-990a-1405ad0fb59d"
+    },
+    {
+      "notes": "",
+      "gameId": "708e84e9-4ce4-4ab8-b8bb-4506ccef1c9b"
+    },
+    {
+      "notes": "",
+      "gameId": "6dd0d8ad-fbec-437a-b17f-d0de6e17d9b8"
+    },
+    {
+      "notes": "",
+      "gameId": "242dedc0-431a-4e4e-990c-58fe3c8ef740"
+    },
+    {
+      "notes": "",
+      "gameId": "865db1fc-3a22-4e7b-a772-d8617006479e"
+    },
+    {
+      "notes": "",
+      "gameId": "fa079244-d1a2-41a3-83ed-a062a8df2b55"
+    },
+    {
+      "notes": "",
+      "gameId": "74fb96ca-00aa-46cc-96a8-26c250cfed93"
+    },
+    {
+      "notes": "",
+      "gameId": "1dff0b08-fd34-d134-4a5b-48989f43fda3"
+    },
+    {
+      "notes": "",
+      "gameId": "7e19c514-9057-40a9-b85d-265c310aad6b"
+    },
+    {
+      "notes": "",
+      "gameId": "7f525ed2-4686-10a5-d801-b1ef997ab5da"
+    },
+    {
+      "notes": "",
+      "gameId": "11ee16a3-dadb-4d54-84dd-a3dcf124ee1d"
+    },
+    {
+      "notes": "",
+      "gameId": "891ac9f2-93da-4141-bd51-6a61c4aeea38"
+    },
+    {
+      "notes": "",
+      "gameId": "95b9df8c-59ce-45d1-ae0b-696e190d9e14"
+    },
+    {
+      "notes": "",
+      "gameId": "001058a2-9303-4857-8160-d9ead3c53829"
+    },
+    {
+      "notes": "",
+      "gameId": "2686de77-6b3c-4718-b57b-9ba01a8bf255"
+    },
+    {
+      "notes": "",
+      "gameId": "b3bd2f73-848b-4ced-9f22-d5475184b35d"
+    },
+    {
+      "notes": "",
+      "gameId": "8c4877a3-76d1-492e-84ba-5fa2d4bdadca"
+    },
+    {
+      "notes": "",
+      "gameId": "c85ff4e3-1e2d-4b4e-8c4f-958d9db4aff2"
+    },
+    {
+      "notes": "",
+      "gameId": "11d24b18-7506-4b69-bb77-a89987a5f3d7"
+    },
+    {
+      "notes": "",
+      "gameId": "a94d865c-cb38-4d31-96f3-dda26502c4a3"
+    },
+    {
+      "notes": "",
+      "gameId": "9c72c611-f9ef-4a87-88cd-4c60edf1ed05"
+    },
+    {
+      "notes": "",
+      "gameId": "0090e0b8-22aa-4861-8361-6328b2795832"
+    },
+    {
+      "notes": "",
+      "gameId": "4631c974-a5b8-497f-a41a-72bbf83e6c00"
+    },
+    {
+      "notes": "",
+      "gameId": "cc779eb6-424b-4377-bda6-e5af9643ee55"
+    },
+    {
+      "notes": "",
+      "gameId": "c1470589-a415-4754-974a-2effb090e243"
+    },
+    {
+      "notes": "",
+      "gameId": "b755c33a-47b8-5cce-b45e-df744deaad6a"
+    },
+    {
+      "notes": "",
+      "gameId": "7756caf4-10ba-46d6-a664-7e4204c03c1e"
+    },
+    {
+      "notes": "",
+      "gameId": "477c24d4-a3d5-4f81-b91c-0efee2a5c0ac"
+    },
+    {
+      "notes": "",
+      "gameId": "c982c855-2db8-4440-9e60-36f5157fae39"
+    },
+    {
+      "notes": "",
+      "gameId": "37011093-bd46-4385-98d1-4cda53724620"
+    },
+    {
+      "notes": "",
+      "gameId": "c47c045e-f1c5-4f16-befb-98aaf80cb920"
+    },
+    {
+      "notes": "",
+      "gameId": "a9c12944-f679-4aca-a803-8846d54b2f99"
+    },
+    {
+      "notes": "",
+      "gameId": "982d3b8e-1a40-4f55-8f08-2ee169ea19f4"
+    },
+    {
+      "notes": "",
+      "gameId": "228fc621-27ff-eec8-fa2e-9f9c13549c0b"
+    },
+    {
+      "notes": "",
+      "gameId": "8617bf69-c964-43e1-96e3-968f661e67e4"
+    },
+    {
+      "notes": "",
+      "gameId": "714f51de-483c-425c-a6a7-fc358ad98a53"
+    },
+    {
+      "notes": "",
+      "gameId": "4649472c-bb97-4847-9744-5162ca0f21d3"
+    },
+    {
+      "notes": "",
+      "gameId": "164e2dc8-31dd-4f59-a6be-46c2087e190f"
+    },
+    {
+      "notes": "",
+      "gameId": "e76237a0-7079-1a33-5467-71295cf1ac8c"
+    },
+    {
+      "notes": "",
+      "gameId": "aaa5c542-def1-407c-8042-7103ef772d65"
+    },
+    {
+      "notes": "",
+      "gameId": "16c27895-f7a6-6c65-18f3-feebcf87d28a"
+    },
+    {
+      "notes": "",
+      "gameId": "ab638461-9317-bbaa-9ccf-e7f0360e3b1b"
+    },
+    {
+      "notes": "",
+      "gameId": "4423194a-22fe-427a-8eae-1b4d9c42395c"
+    },
+    {
+      "notes": "",
+      "gameId": "7350e8d0-42e0-46f0-93a4-d6500c7b6e53"
+    },
+    {
+      "notes": "",
+      "gameId": "602762ba-a1b6-4810-8093-e5dbf0c33b61"
+    },
+    {
+      "notes": "",
+      "gameId": "d38fcefb-89c5-4977-91ba-14237ca5e6e4"
+    },
+    {
+      "notes": "",
+      "gameId": "77b1bb54-52bf-97e2-2436-52cf6c9beb05"
+    },
+    {
+      "notes": "",
+      "gameId": "6133ac97-f698-8b68-42b9-09a0b6116626"
+    },
+    {
+      "notes": "",
+      "gameId": "04f97013-f96a-75a2-5c82-90015da6dd6b"
+    },
+    {
+      "notes": "",
+      "gameId": "6c354937-b5aa-7884-ae27-34a275a103c1"
+    },
+    {
+      "notes": "",
+      "gameId": "1250e35d-c1ff-09eb-6144-e9a4fed9c430"
+    },
+    {
+      "notes": "",
+      "gameId": "9475f4d6-57d8-24ff-d9a1-c4e93207c0c0"
+    },
+    {
+      "notes": "",
+      "gameId": "4319be27-8afc-42de-9592-b4ad7a1490e8"
+    },
+    {
+      "notes": "",
+      "gameId": "23551fb0-9224-4581-9bc4-b81887b0c767"
+    },
+    {
+      "notes": "",
+      "gameId": "2fc74459-68e2-36a1-d1c8-2ac8e01301dd"
+    },
+    {
+      "notes": "",
+      "gameId": "5efea4aa-a316-41eb-91dc-787d556e125c"
+    },
+    {
+      "notes": "",
+      "gameId": "e6f95de6-7e12-4b07-80cc-ecd5d4eea1aa"
+    },
+    {
+      "notes": "",
+      "gameId": "e3f7c474-4e95-44e8-adc4-b822dc409db6"
+    },
+    {
+      "notes": "",
+      "gameId": "e0d64190-c0d2-6b98-84df-2d09f0abe574"
+    },
+    {
+      "notes": "",
+      "gameId": "2d21f724-00d5-49cd-bb48-0cf0a0abfea5"
+    },
+    {
+      "notes": "",
+      "gameId": "da033318-11cc-420c-8742-e67d326414d4"
+    },
+    {
+      "notes": "",
+      "gameId": "cc90c64c-76fb-4b1f-8d01-7e8821e6046a"
+    },
+    {
+      "notes": "",
+      "gameId": "74f937b3-7bf3-4ad8-869a-1740e164ef3f"
+    },
+    {
+      "notes": "",
+      "gameId": "e359bc36-433a-4169-be26-276a87e347f7"
+    },
+    {
+      "notes": "",
+      "gameId": "9632e30f-6acc-4ed7-be2f-9f3858832dfe"
+    },
+    {
+      "notes": "",
+      "gameId": "2db87827-c3aa-4c49-86e5-2a650376fb88"
+    },
+    {
+      "notes": "",
+      "gameId": "d238e9e1-c64e-47bd-ae2c-1352ed07a964"
+    },
+    {
+      "notes": "",
+      "gameId": "bdcaed29-7db2-4bfc-a384-9de911984d81"
+    },
+    {
+      "notes": "",
+      "gameId": "e75483c1-e4cc-44d1-95a6-a85c16b057b0"
+    },
+    {
+      "notes": "",
+      "gameId": "d9eb07e0-ea61-4528-8158-c83f7cb948e9"
+    },
+    {
+      "notes": "",
+      "gameId": "de812084-1b68-b836-f0f4-624b19e75f8d"
+    },
+    {
+      "notes": "",
+      "gameId": "081868fe-19fa-4fc8-ccfc-d9fd27fe2ccf"
+    },
+    {
+      "notes": "",
+      "gameId": "e3ec1154-9d5a-ac82-e221-c5cd8aab1029"
+    },
+    {
+      "notes": "",
+      "gameId": "da6b3cb4-78a7-e998-fcf4-cb26a7950754"
+    },
+    {
+      "notes": "",
+      "gameId": "f32c329d-5738-49ec-b00c-93ced5e2d353"
+    },
+    {
+      "notes": "",
+      "gameId": "40640b92-cd02-b7d3-d00f-5a0913020739"
+    },
+    {
+      "notes": "",
+      "gameId": "bb92c3a6-94c5-473e-b2c1-ca14fdb6232d"
+    },
+    {
+      "notes": "",
+      "gameId": "47511d1b-8a16-c787-5628-27be58920213"
+    },
+    {
+      "notes": "",
+      "gameId": "7465f109-77a4-f52b-5b95-773d6d219d04"
+    },
+    {
+      "notes": "",
+      "gameId": "ae6b78fa-5cac-42f1-8771-83c740fea1ed"
+    },
+    {
+      "notes": "",
+      "gameId": "eeedd9a0-d3c4-4874-83af-30f0d330dfa6"
+    },
+    {
+      "notes": "",
+      "gameId": "aec8bac9-2709-7753-d7b6-a87566822202"
+    },
+    {
+      "notes": "",
+      "gameId": "0ba6a850-1bba-445b-b809-6e6232e4cd71"
+    },
+    {
+      "notes": "",
+      "gameId": "bb47e3e3-8281-4454-bc37-b2f1c9604470"
+    },
+    {
+      "notes": "",
+      "gameId": "ccd01978-b7c1-4974-b6c7-c67d577ee1f9"
+    },
+    {
+      "notes": "",
+      "gameId": "b172ef01-b225-423d-a64c-732ade538a01"
+    },
+    {
+      "notes": "",
+      "gameId": "2f9c4a38-f5b4-412c-b912-fafbb761c225"
+    },
+    {
+      "notes": "",
+      "gameId": "2d0071b4-8ea9-40b1-a642-c970ca260cb2"
+    },
+    {
+      "notes": "",
+      "gameId": "bcd56b3d-2b64-4fda-8cca-5962713fa6e8"
+    },
+    {
+      "notes": "",
+      "gameId": "37ed7874-2e01-4fdc-9f79-b31e9595ac01"
+    },
+    {
+      "notes": "",
+      "gameId": "3972034e-8809-4908-96d3-0feec1779177"
+    },
+    {
+      "notes": "",
+      "gameId": "6f55fa09-d9e3-75f6-ffeb-0f5c1eecbba6"
+    },
+    {
+      "notes": "",
+      "gameId": "17f7d182-76de-4c25-ba86-3e0a6ed4a70a"
+    },
+    {
+      "notes": "",
+      "gameId": "eaf1e3cc-10be-455b-ace1-700a15c16092"
+    },
+    {
+      "notes": "",
+      "gameId": "19de0ab7-7f08-3603-e466-616c024df7ef"
+    },
+    {
+      "notes": "",
+      "gameId": "d767455c-29ec-d6c8-5791-1abf00655076"
+    },
+    {
+      "notes": "",
+      "gameId": "cb3377c1-aa8c-e24a-8e1f-f23e57ff48e9"
+    },
+    {
+      "notes": "",
+      "gameId": "de8b82cc-8ce0-4bd7-85a9-85525d363fc7"
+    },
+    {
+      "notes": "",
+      "gameId": "68fdff65-862a-4921-a7a4-da29e72fd76c"
+    },
+    {
+      "notes": "",
+      "gameId": "ee626c1c-9747-4d58-9710-31cf0cc314e1"
+    },
+    {
+      "notes": "",
+      "gameId": "060bcda8-e7fe-4f4c-86ab-dd7817f05e20"
+    },
+    {
+      "notes": "",
+      "gameId": "5d9ab156-4dff-42c5-9757-aa555efd6d69"
+    },
+    {
+      "notes": "",
+      "gameId": "f04c56a8-c72b-d2f3-0892-a8b31542a994"
+    },
+    {
+      "notes": "",
+      "gameId": "d5b0d245-b24a-469b-ae63-c9c466076c4d"
+    },
+    {
+      "notes": "",
+      "gameId": "9b8a7d4d-10d5-4820-86aa-c25220080710"
+    },
+    {
+      "notes": "",
+      "gameId": "e5ba0bc0-2561-47e4-9753-646d61351e37"
+    },
+    {
+      "notes": "",
+      "gameId": "f811e480-3876-4525-8a34-3cea51b8c16f"
+    },
+    {
+      "notes": "",
+      "gameId": "4bd469a1-3b4d-4c0b-be61-5540862f632f"
+    },
+    {
+      "notes": "",
+      "gameId": "a9113cd5-010e-48f1-4421-52427e208520"
+    },
+    {
+      "notes": "",
+      "gameId": "fe4ad6ce-74ab-4756-8ca3-0d0a755d2c16"
+    },
+    {
+      "notes": "",
+      "gameId": "bda1e0d7-145f-4c64-b354-bafbc68ccb75"
+    },
+    {
+      "notes": "",
+      "gameId": "e0059b62-ad8a-4d5e-bdc9-c59acffc954e"
+    },
+    {
+      "notes": "",
+      "gameId": "b0d2b9a9-ab00-465e-b5a3-56031b92f070"
+    },
+    {
+      "notes": "",
+      "gameId": "10794ec9-8d8e-d839-3692-405a7401fa48"
+    },
+    {
+      "notes": "",
+      "gameId": "8cbb824f-73f1-49fe-9390-79e2295e4598"
+    },
+    {
+      "notes": "",
+      "gameId": "6203d37d-efd3-116e-3168-299f4e339dc6"
+    },
+    {
+      "notes": "",
+      "gameId": "4b9444a4-5545-4fc3-b03a-48b493d77890"
+    },
+    {
+      "notes": "",
+      "gameId": "7925ba44-727c-4d59-8c04-d8905c4a9477"
+    },
+    {
+      "notes": "",
+      "gameId": "d0c61766-fb52-48ed-851c-98b3e2361f16"
+    },
+    {
+      "notes": "",
+      "gameId": "e7a892c5-3eb5-4553-943d-752c9e83dac7"
+    },
+    {
+      "notes": "",
+      "gameId": "43869feb-f27b-2a12-b704-a98aaa08a9a6"
+    },
+    {
+      "notes": "",
+      "gameId": "315b675a-c1e5-8e73-700a-0d1effcd7c28"
+    },
+    {
+      "notes": "",
+      "gameId": "9d46e1e9-12bf-4d1d-ad2e-1e9aafb81484"
+    },
+    {
+      "notes": "",
+      "gameId": "c6d747da-03ce-11c7-0f3c-5dcd8a9018f7"
+    },
+    {
+      "notes": "",
+      "gameId": "8bb03bce-6394-456d-ad43-6b3e0177eeb2"
+    },
+    {
+      "notes": "",
+      "gameId": "1022d32c-0e77-48c8-a984-6d5d5b93910e"
+    },
+    {
+      "notes": "",
+      "gameId": "f693fd20-0b6e-48eb-98bc-639ad171f8c4"
+    },
+    {
+      "notes": "",
+      "gameId": "45e39f5d-edf6-463d-9f29-1242ffb5addf"
+    },
+    {
+      "notes": "",
+      "gameId": "ddc998ce-08c3-46d5-a039-8fa65fabd43f"
+    },
+    {
+      "notes": "",
+      "gameId": "9cce4243-ffb1-7f9d-f8f7-0282f0491906"
+    },
+    {
+      "notes": "",
+      "gameId": "998ec619-1347-44ed-924e-a99f8e124916"
+    },
+    {
+      "notes": "",
+      "gameId": "787fcbe7-6722-4608-a9db-c4ecd78733fa"
+    },
+    {
+      "notes": "",
+      "gameId": "6c6deeae-0b97-8d17-2500-3abf3f973844"
+    },
+    {
+      "notes": "",
+      "gameId": "b9495883-7bde-2bb4-237c-52113e27b5e2"
+    },
+    {
+      "notes": "",
+      "gameId": "13804696-e07e-374f-5b14-52dcf7bb27ec"
+    },
+    {
+      "notes": "",
+      "gameId": "fb5b29a8-5311-4d09-8953-a88b8a7439de"
+    },
+    {
+      "notes": "",
+      "gameId": "bec87eed-18e3-92b2-5269-482d047159b6"
+    },
+    {
+      "notes": "",
+      "gameId": "75c29c44-b1ed-4095-f8de-d2b1f6e03e65"
+    },
+    {
+      "notes": "",
+      "gameId": "d7462400-651f-ed3a-2a75-ccf3ed339942"
+    },
+    {
+      "notes": "",
+      "gameId": "8061aeef-0d5b-5013-edc6-e382cc1e79d5"
+    },
+    {
+      "notes": "",
+      "gameId": "ff4a9869-cb14-7345-541d-bdfc416b139e"
+    },
+    {
+      "notes": "",
+      "gameId": "5d2de62e-6769-9748-c88d-a34ee3d45b62"
+    },
+    {
+      "notes": "",
+      "gameId": "cf497521-a41c-4332-b41e-949730bf8f83"
+    },
+    {
+      "notes": "",
+      "gameId": "c2a98a5b-4abf-4d3c-b481-c1fc851248ff"
+    },
+    {
+      "notes": "",
+      "gameId": "09ce9710-bb31-4673-a580-b6ecd3320bcb"
+    },
+    {
+      "notes": "",
+      "gameId": "cf29b65d-e3e9-4da9-8201-d76de38736ea"
+    },
+    {
+      "notes": "",
+      "gameId": "880a845e-2f0f-4789-951d-1950d6f162cc"
+    },
+    {
+      "notes": "",
+      "gameId": "3c1e364f-633e-b6ef-daf9-6505054db3af"
+    },
+    {
+      "notes": "",
+      "gameId": "a64d77ab-bff7-c8f5-8c22-b6bd42343886"
+    },
+    {
+      "notes": "",
+      "gameId": "19e16dc4-af08-46b5-a06f-b6f875fedab6"
+    },
+    {
+      "notes": "",
+      "gameId": "ab08fec7-75f0-484f-bdcc-a7ba5b63199e"
+    },
+    {
+      "notes": "",
+      "gameId": "b43d0455-0393-4066-9ba3-a8ca1315c225"
+    },
+    {
+      "notes": "",
+      "gameId": "87b7e9cd-40b3-74e5-4db3-369ff0d3032c"
+    },
+    {
+      "notes": "",
+      "gameId": "0f86a795-1467-54fe-c6cb-ac6ce1355d98"
+    },
+    {
+      "notes": "",
+      "gameId": "8c4c2ece-6af0-aa13-f1fb-9fe77a6b9eb7"
+    },
+    {
+      "notes": "",
+      "gameId": "58964b09-99eb-405f-bc1b-f759f58e05eb"
+    },
+    {
+      "notes": "",
+      "gameId": "2bab378e-5cf4-457b-ac24-2169f9417df1"
+    }
+  ],
+  "title": "Efsaneler Listesi",
+  "description": "Vipe8 ve izleyicilerinin önerileriyle toplanmış liste. Alakalı videoya Vipe8 Youtube kanalı üzerinden ulaşabilir ve öneride bulunabilirsiniz.",
+  "author": "Vipe8",
+  "library": "arcade",
+  "icon": "",
+  "extreme": false
+}

@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Vipe8 &amp; Flash Sevdası</title>
+<meta name="description" content="Vipe8 ile Flash videoları, efsanevi oyun listesi, Flashpoint kurulum rehberi ve tüyolar.">
+<meta property="og:title" content="Vipe8 &amp; Flash Sevdası">
+<meta property="og:description" content="Vipe8 ile Flash videoları, efsanevi oyun listesi, Flashpoint kurulum rehberi ve tüyolar.">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Vipe8 &amp; Flash Sevdası">
+<meta property="og:locale" content="tr_TR">
+<meta name="theme-color" content="#801e29">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Baloo+2:wght@500;600;700;800&family=Space+Grotesk:wght@400;500;600;700&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+<link rel="icon" href="assets/vipe8-logo.png?v=2" type="image/png">
+<script src="content.js" defer></script>
+<script src="script.js" defer></script>
+</head>
+<body>
+
+<button class="nav-toggle" id="navToggle" aria-label="Menüyü aç/kapat" aria-controls="sidebar" aria-expanded="false">
+  <span></span><span></span><span></span>
+</button>
+
+<!-- ============ SIDEBAR / PLAYER CARD ============ -->
+<aside class="sidebar" id="sidebar">
+
+  <div class="player-card">
+    <img class="channel-logo" id="channelLogo" src="assets/vipe8-logo.png" alt="Vipe8 logosu">
+
+    <h1 class="player-name" id="nickname">Vipe8</h1>
+  </div>
+
+  <nav class="level-select" aria-label="Section navigation">
+    <ul class="nav-flat">
+      <li><a href="#videos" class="nav-link" data-section="videos"><span class="nav-cursor">▶</span>Flashla ilgili videolar</a></li>
+      <li><a href="#playlist" class="nav-link" data-section="playlist"><span class="nav-cursor">▶</span>Efsanevi Flash Listesi</a></li>
+      <li><a href="#guide" class="nav-link" data-section="guide"><span class="nav-cursor">▶</span>Nasıl Oynayabilirsin?</a></li>
+      <li><a href="#tips" class="nav-link" data-section="tips"><span class="nav-cursor">▶</span>Flashpoint Tüyoları</a></li>
+      <li><a href="#more" class="nav-link" data-section="more"><span class="nav-cursor">▶</span>Daha Fazlası mı Lazım?</a></li>
+    </ul>
+  </nav>
+
+  <div class="sidebar-footer">
+    <div class="controller-row" aria-label="Sosyal bağlantılar">
+      <a data-link="youtube" class="pad-btn" title="YouTube" aria-label="YouTube">▶</a>
+      <a data-link="kick" class="pad-btn" title="Kick" aria-label="Kick"><img class="social-logo" src="assets/kick-logo.png" alt="" aria-hidden="true"></a>
+      <a data-link="discord" class="pad-btn" title="Discord" aria-label="Discord"><img class="social-logo" src="assets/discord-logo.png" alt="" aria-hidden="true"></a>
+    </div>
+  </div>
+
+</aside>
+
+<main class="content" id="main">
+  <section id="videos" class="panel jams-panel">
+    <h2 class="panel-title">Flashla ilgili videolar</h2>
+    <div class="jam-grid" id="videoGrid"></div>
+  </section>
+  <section id="playlist" class="panel about-panel">
+    <h2 class="panel-title">Efsanevi Flash Listesi</h2>
+    <div class="sub-item-head">
+      <a id="playlistFile" class="link-chip">Efsaneler Listesi.json ↗</a>
+      <span class="sub-item-meta playlist-meta">Dosya boyutu: 15,1 kB · Son güncelleme: <time id="updated" datetime="2026-10-14">14.10.2026</time></span>
+    </div>
+    <p class="about-text">Toplam oyun sayısı: <strong id="gameCount">162</strong></p>
+    <p class="sub-item-meta" id="playlistState">Dosyayı indirip, aşağıdaki adımlarla Flashpoint’e ekleyebilirsiniz.</p>
+    <p class="about-text">Eğer sen de oyun önermek istiyorsan <a class="inline-link" data-link="kick">yayınlara</a> veya <a class="inline-link" data-link="comments">videodaki</a> yorumlara bekleriz.</p>
+  </section>
+  <section id="guide" class="panel experience-panel">
+    <h2 class="panel-title">Nasıl Oynayabilirsin?</h2>
+    <div id="guideList"></div>
+  </section>
+  <section id="tips" class="panel about-panel">
+    <h2 class="panel-title">Flashpoint Tüyoları</h2>
+    <div class="project-detail-grid guide-step">
+      <div>
+        <p class="about-text">189000 oyun olduğu için aradığınız oyunu bulmak zor olabilir. Bu yüzden filtreleri düzgün kullanmak gerekiyor.</p>
+        <ul class="role-bullets tips-bullets">
+          <li>Arama kutusunun altında yer alan etiketlerden istediklerinizi seçebilirsiniz. Etiketlerin yeşil olanları oyun türü, morlar ise alakalı oldukları oyun serisi/evren/marka ile ilgili.</li>
+          <li>Aramayı "AND" olarak bırakırsanız bütün etiketlerin bir arada olduğu oyunları görürsünüz. "OR" olarak değiştirirseniz en az 1 etiketin olduğu tüm oyunları görürsünüz.</li>
+          <li>Bu aramayı aynı zamanda herhangi bir oynatma listesinin içerisindeki oyunlara da uygulayabilirsiniz.</li>
+        </ul>
+      </div>
+      <figure>
+        <img src="assets/flashpoint-etiket-filtreleri.png" alt="Flashpoint etiket filtreleri; yeşil tür ve mor seri etiketleri ile AND düğmesi" loading="lazy">
+      </figure>
+    </div>
+    <div class="project-detail-grid guide-step">
+      <div>
+        <p class="about-text">Oyunlara tıkladığınızda sağ tarafta bilgilerinin olduğu bir sekme açılıyor. Bu sekmede aşağı inerseniz bazı oyunlar için farklı modlar veya hileler olduğunu görebilirsiniz.</p>
+      </div>
+      <figure>
+        <img src="assets/flashpoint-ek-uygulamalar.png" alt="Oyun bilgilerinin altındaki Ek Uygulamalar bölümü ve Infinite Money Hack seçeneği" loading="lazy">
+      </figure>
+    </div>
+  </section>
+  <section id="more" class="panel about-panel">
+    <h2 class="panel-title">Daha Fazlası mı Lazım?</h2>
+    <p class="about-text">Youtube kanalıma abone olarak yeni içeriklerden haberdar olabilirsin! Aynı zamanda yayınlarda da videolarda gördüğünüz oyunları ve daha nice nostaljik cevherleri kurcalıyoruz. Bir takibinizi alırım! Son oyunum Please, Spin'in steam sayfasına da aşağıdaki butondan ulaşabilirsiniz!</p>
+    <div class="sub-item-links">
+      <a class="link-chip" data-link="youtube">YouTube ↗</a>
+      <a class="link-chip" data-link="kick">Yayına gel ↗</a>
+      <a class="link-chip" href="https://store.steampowered.com/app/4067820/Please_Spin" target="_blank" rel="noopener noreferrer">Please, Spin · Steam ↗</a>
+    </div>
+  </section>
+  <footer class="page-footer">© <span id="year"></span> Vipe8</footer>
+</main>
+<div class="toast" id="toast" role="status" aria-live="polite"></div>
+</body>
+</html>
